@@ -1,4 +1,4 @@
-# Skin Lesion Classifier: Convolutional Neural Network for Dermatological Diagnosis
+# A CNN-based Approach to Skin Lesion Classification with Improved Generalization
 
 This repository contains a Jupyter Notebook that demonstrates the development of a Convolutional Neural Network (CNN) model for the classification of skin lesions. The model is trained and optimized to accurately identify different types of skin conditions using the HAM10000 dataset.
 
